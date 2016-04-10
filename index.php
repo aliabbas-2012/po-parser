@@ -14,10 +14,11 @@
     </head>
     <body>
         <h1>Upload Po File</h1>
+        <div>
+            <?php  $ob->printFlash("success"); ?>
+        </div>
         <div class="form_content" style="">
-            <form method="post" action="<?php echo "index.php" ?>" enctype="multipart/form-data">
-
-
+            <form method="post" action="<?php echo $_SERVER['PHP_SELF']; ?>" enctype="multipart/form-data">
                 <table cellspacing="0" cellpadding="2">
                     <tr>
                         <td><label>Upload Po File</label></td>
@@ -31,6 +32,18 @@
                         <td></td>
                         <td><input type="submit" value="Upload & Convert" />
                             <span style="clear:both"><?php echo $ob->error; ?></span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Result</td>
+                        <td>
+                            <?php
+                                if(isset($_GET['resx_file'])){
+                                    echo "<a href='".$ob->getUploadedUrl().$_GET['resx_file'].".resx' target='_blank'>";
+                                        echo $_GET['resx_file'];
+                                    echo "</a>";
+                                }
+                            ?>
                         </td>
                     </tr>
                 </table>

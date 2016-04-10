@@ -15,10 +15,20 @@ class XmlGeneator {
 
         $xml = new SimpleXMLElement('<?xml version="1.0" encoding="UTF-8"?><root></root>');
 
-        echo "<pre>";
-        print_r($entries);
-        echo "</pre>";
+        if (!empty($header['msgstr'])) {
 
+            //$header_node = $xml->addChild('header');
+            foreach ($header['msgstr'] as $key => $entry) {
+                if (!empty($entry)) {
+                    $title_node = $xml->addChild('data');
+                    $title_node->addAttribute('name', $entry);
+                    $title_node->addAttribute('post_id', "post_id");
+                    $title_node->addAttribute('post_type', "Header");
+                    $title_node->addAttribute('post_name', $entry);
+                    $title_value = $title_node->addChild('value', "<![CDATA[" . $entry . "]]>");
+                }
+            }
+        }
 
         foreach ($entries as $key => $entry) {
             if (isset($key) && !empty($key)) {
@@ -30,6 +40,7 @@ class XmlGeneator {
                 $title_node->addAttribute('post_id', "post_id");
                 $title_node->addAttribute('post_type', "post_type");
                 $title_node->addAttribute('post_name', $key);
+
 
                 //adding references
                 $reference = "";
@@ -45,15 +56,17 @@ class XmlGeneator {
                         $value.= $msg_str;
                     $value.= (($msg_str));
                 }
-                echo $value;
-                echo "<br/>";
+//                echo $value;
+//                echo "<br/>";
 
-               
+
                 $title_value = $title_node->addChild('value', "<![CDATA[" . $value . "]]>");
 //                $title_value = $title_node->addChild('value', iconv('ISO-8859-1', 'UTF-8', $value));
             }
         }
-
+//        echo "<pre>";
+//        print_r($header['msgstr']);
+//        echo "</pre>";
 
         $resx = $xml->asXML();
 
