@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <data name="Page not found" content_context="Content" content_context_url="http://local.apidocs.strakertranslations.com/#" post_id="post_id" post_type="post_type" post_name="Page not found" references="">
+        <value>&lt;![CDATA[Page non trouvéePage non trouvée]]&gt;</value>
+    </data>
+    <data name="Return home?" content_context="Content" content_context_url="http://local.apidocs.strakertranslations.com/#" post_id="post_id" post_type="post_type" post_name="Return home?" references="../404.php:11">
+        <value>&lt;![CDATA[Retour à la page d'accueil ?Retour à la page d'accueil ?]]&gt;</value>
+    </data>
+    <data name="Archives" content_context="Content" content_context_url="http://local.apidocs.strakertranslations.com/#" post_id="post_id" post_type="post_type" post_name="Archives" references="../archive.php:6">
+        <value>&lt;![CDATA[ArchivesArchives]]&gt;</value>
+    </data>
+    <data name="Author Archives for " content_context="Content" content_context_url="http://local.apidocs.strakertranslations.com/#" post_id="post_id" post_type="post_type" post_name="Author Archives for " references="../author.php:8">
+        <value>&lt;![CDATA[Archives de l'auteur Archives de l'auteur ]]&gt;</value>
+    </data>
+    <data name="About " content_context="Content" content_context_url="http://local.apidocs.strakertranslations.com/#" post_id="post_id" post_type="post_type" post_name="About " references="../author.php:14">
+        <value>&lt;![CDATA[À proposÀ propos]]&gt;</value>
+    </data>
+    <data name="Published by" content_context="Content" content_context_url="http://local.apidocs.strakertranslations.com/#" post_id="post_id" post_type="post_type" post_name="Published by" references="../author.php:41 ../loop.php:22 ../single.php:27">
+        <value>&lt;![CDATA[Publié parPublié par]]&gt;</value>
+    </data>
+    <data name="Leave your thoughts" content_context="Content" content_context_url="http://local.apidocs.strakertranslations.com/#" post_id="post_id" post_type="post_type" post_name="Leave your thoughts" references="../author.php:42 ../loop.php:23 ../single.php:28">
+        <value>&lt;![CDATA[Laissez vos commentairesLaissez vos commentaires]]&gt;</value>
+    </data>
+    <data name="1 Comment" content_context="Content" content_context_url="http://local.apidocs.strakertranslations.com/#" post_id="post_id" post_type="post_type" post_name="1 Comment" references="../author.php:42 ../loop.php:23 ../single.php:28">
+        <value>&lt;![CDATA[1 Commentaire1 Commentaire]]&gt;</value>
+    </data>
+    <data name="% Comments" content_context="Content" content_context_url="http://local.apidocs.strakertranslations.com/#" post_id="post_id" post_type="post_type" post_name="% Comments" references="../author.php:42 ../loop.php:23 ../single.php:28">
+        <value>&lt;![CDATA[% Comentaires% Comentaires]]&gt;</value>
+    </data>
+    <data name="Sorry, nothing to display." content_context="Content" content_context_url="http://local.apidocs.strakertranslations.com/#" post_id="post_id" post_type="post_type" post_name="Sorry, nothing to display." references="../author.php:61 ../loop.php:39 ../page.php:31 ../single.php:53../template-demo.php:31">
+        <value>&lt;![CDATA[Désolé, aucun contenu disponible.Désolé, aucun contenu disponible.]]&gt;</value>
+    </data>
+    <data name="Categories for " content_context="Content" content_context_url="http://local.apidocs.strakertranslations.com/#" post_id="post_id" post_type="post_type" post_name="Categories for " references="../category.php:6">
+        <value>&lt;![CDATA[Catégories pour Catégories pour ]]&gt;</value>
+    </data>
+    <data name="Post is password protected. Enter the password to view any comments." content_context="Content" content_context_url="http://local.apidocs.strakertranslations.com/#" post_id="post_id" post_type="post_type" post_name="Post is password protected. Enter the password to view any comments." references="../comments.php:3">
+        <value>&lt;![CDATA[Cet article est protégé par un mot de passe. Merci d'entrer le mot de passe Cet article est protégé par un mot de passe. Merci d'entrer le mot de passe pour voir les commentaires.pour voir les commentaires.]]&gt;</value>
+    </data>
+    <data name="Comments are closed here." content_context="Content" content_context_url="http://local.apidocs.strakertranslations.com/#" post_id="post_id" post_type="post_type" post_name="Comments are closed here." references="../comments.php:18">
+        <value>&lt;![CDATA[Les commentaires sont fermés.Les commentaires sont fermés.]]&gt;</value>
+    </data>
+    <data name="Powered by" content_context="Content" content_context_url="http://local.apidocs.strakertranslations.com/#" post_id="post_id" post_type="post_type" post_name="Powered by" references="../footer.php:6">
+        <value>&lt;![CDATA[Propulsé parPropulsé par]]&gt;</value>
+    </data>
+    <data name="Header Menu" content_context="Content" content_context_url="http://local.apidocs.strakertranslations.com/#" post_id="post_id" post_type="post_type" post_name="Header Menu" references="../functions.php:133">
+        <value>&lt;![CDATA[Menu d'entêteMenu d'entête]]&gt;</value>
+    </data>
+    <data name="Sidebar Menu" content_context="Content" content_context_url="http://local.apidocs.strakertranslations.com/#" post_id="post_id" post_type="post_type" post_name="Sidebar Menu" references="../functions.php:134">
+        <value>&lt;![CDATA[Menu de barre latéraleMenu de barre latérale]]&gt;</value>
+    </data>
+    <data name="Extra Menu" content_context="Content" content_context_url="http://local.apidocs.strakertranslations.com/#" post_id="post_id" post_type="post_type" post_name="Extra Menu" references="../functions.php:135">
+        <value>&lt;![CDATA[Menu supplémentaireMenu supplémentaire]]&gt;</value>
+    </data>
+    <data name="Widget Area 1" content_context="Content" content_context_url="http://local.apidocs.strakertranslations.com/#" post_id="post_id" post_type="post_type" post_name="Widget Area 1" references="../functions.php:181">
+        <value>&lt;![CDATA[Zone de widget 1Zone de widget 1]]&gt;</value>
+    </data>
+    <data name="Description for this widget-area..." content_context="Content" content_context_url="http://local.apidocs.strakertranslations.com/#" post_id="post_id" post_type="post_type" post_name="Description for this widget-area..." references="../functions.php:182 ../functions.php:193">
+        <value>&lt;![CDATA[Description pour cette zone à widget...Description pour cette zone à widget...]]&gt;</value>
+    </data>
+    <data name="Widget Area 2" content_context="Content" content_context_url="http://local.apidocs.strakertranslations.com/#" post_id="post_id" post_type="post_type" post_name="Widget Area 2" references="../functions.php:192">
+        <value>&lt;![CDATA[Zone de widget 2Zone de widget 2]]&gt;</value>
+    </data>
+    <data name="View Article" content_context="Content" content_context_url="http://local.apidocs.strakertranslations.com/#" post_id="post_id" post_type="post_type" post_name="View Article" references="../functions.php:258">
+        <value>&lt;![CDATA[Voir l'articleVoir l'article]]&gt;</value>
+    </data>
+    <data name="&lt;cite class=&quot;fn&quot;&gt;%s&lt;/cite&gt; &lt;span class=&quot;says&quot;&gt;says:&lt;/span&gt;" content_context="Content" content_context_url="http://local.apidocs.strakertranslations.com/#" post_id="post_id" post_type="post_type" post_name="&lt;cite class=&quot;fn&quot;&gt;%s&lt;/cite&gt; &lt;span class=&quot;says&quot;&gt;says:&lt;/span&gt;" references="../functions.php:319">
+        <value>&lt;![CDATA[&lt;cite class="fn"&gt;%s&lt;/cite&gt; &lt;span class="says"&gt;dit:&lt;/span&gt;&lt;cite class="fn"&gt;%s&lt;/cite&gt; &lt;span class="says"&gt;dit:&lt;/span&gt;]]&gt;</value>
+    </data>
+    <data name="Your comment is awaiting moderation." content_context="Content" content_context_url="http://local.apidocs.strakertranslations.com/#" post_id="post_id" post_type="post_type" post_name="Your comment is awaiting moderation." references="../functions.php:322">
+        <value>&lt;![CDATA[Votre commentaire est en attente de modération.Votre commentaire est en attente de modération.]]&gt;</value>
+    </data>
+    <data name="%1$s at %2$s" content_context="Content" content_context_url="http://local.apidocs.strakertranslations.com/#" post_id="post_id" post_type="post_type" post_name="%1$s at %2$s" references="../functions.php:328">
+        <value>&lt;![CDATA[%1$s à %2$s%1$s à %2$s]]&gt;</value>
+    </data>
+    <data name="(Edit)" content_context="Content" content_context_url="http://local.apidocs.strakertranslations.com/#" post_id="post_id" post_type="post_type" post_name="(Edit)" references="../functions.php:328">
+        <value>&lt;![CDATA[(Éditer)(Éditer)]]&gt;</value>
+    </data>
+    <data name="HTML5 Blank Custom Post" content_context="Content" content_context_url="http://local.apidocs.strakertranslations.com/#" post_id="post_id" post_type="post_type" post_name="HTML5 Blank Custom Post" references="../functions.php:411 ../functions.php:412">
+        <value>&lt;![CDATA[Article personnaliséArticle personnalisé]]&gt;</value>
+    </data>
+    <data name="Add New" content_context="Content" content_context_url="http://local.apidocs.strakertranslations.com/#" post_id="post_id" post_type="post_type" post_name="Add New" references="../functions.php:413">
+        <value>&lt;![CDATA[Ajouter nouveauAjouter nouveau]]&gt;</value>
+    </data>
+    <data name="Add New HTML5 Blank Custom Post" content_context="Content" content_context_url="http://local.apidocs.strakertranslations.com/#" post_id="post_id" post_type="post_type" post_name="Add New HTML5 Blank Custom Post" references="../functions.php:414">
+        <value>&lt;![CDATA[Ajouter un article personnaliséAjouter un article personnalisé]]&gt;</value>
+    </data>
+    <data name="Edit" content_context="Content" content_context_url="http://local.apidocs.strakertranslations.com/#" post_id="post_id" post_type="post_type" post_name="Edit" references="../functions.php:415">
+        <value>&lt;![CDATA[ÉditerÉditer]]&gt;</value>
+    </data>
+    <data name="Edit HTML5 Blank Custom Post" content_context="Content" content_context_url="http://local.apidocs.strakertranslations.com/#" post_id="post_id" post_type="post_type" post_name="Edit HTML5 Blank Custom Post" references="../functions.php:416">
+        <value>&lt;![CDATA[Éditer l'article personnaliséÉditer l'article personnalisé]]&gt;</value>
+    </data>
+    <data name="New HTML5 Blank Custom Post" content_context="Content" content_context_url="http://local.apidocs.strakertranslations.com/#" post_id="post_id" post_type="post_type" post_name="New HTML5 Blank Custom Post" references="../functions.php:417">
+        <value>&lt;![CDATA[Nouvel article personnaliséNouvel article personnalisé]]&gt;</value>
+    </data>
+    <data name="View HTML5 Blank Custom Post" content_context="Content" content_context_url="http://local.apidocs.strakertranslations.com/#" post_id="post_id" post_type="post_type" post_name="View HTML5 Blank Custom Post" references="../functions.php:418 ../functions.php:419">
+        <value>&lt;![CDATA[Voir l'article personnaliséVoir l'article personnalisé]]&gt;</value>
+    </data>
+    <data name="Search HTML5 Blank Custom Post" content_context="Content" content_context_url="http://local.apidocs.strakertranslations.com/#" post_id="post_id" post_type="post_type" post_name="Search HTML5 Blank Custom Post" references="../functions.php:420">
+        <value>&lt;![CDATA[Rechercher un article personnaliséRechercher un article personnalisé]]&gt;</value>
+    </data>
+    <data name="No HTML5 Blank Custom Posts found" content_context="Content" content_context_url="http://local.apidocs.strakertranslations.com/#" post_id="post_id" post_type="post_type" post_name="No HTML5 Blank Custom Posts found" references="../functions.php:421">
+        <value>&lt;![CDATA[Aucun article personnalisé trouvéAucun article personnalisé trouvé]]&gt;</value>
+    </data>
+    <data name="No HTML5 Blank Custom Posts found in Trash" content_context="Content" content_context_url="http://local.apidocs.strakertranslations.com/#" post_id="post_id" post_type="post_type" post_name="No HTML5 Blank Custom Posts found in Trash" references="../functions.php:422">
+        <value>&lt;![CDATA[Aucun article personnalisé trouvé dans la corbeilleAucun article personnalisé trouvé dans la corbeille]]&gt;</value>
+    </data>
+    <data name="Latest Posts" content_context="Content" content_context_url="http://local.apidocs.strakertranslations.com/#" post_id="post_id" post_type="post_type" post_name="Latest Posts" references="../index.php:6">
+        <value>&lt;![CDATA[Articles récentsArticles récents]]&gt;</value>
+    </data>
+    <data name="%s Search Results for " content_context="Content" content_context_url="http://local.apidocs.strakertranslations.com/#" post_id="post_id" post_type="post_type" post_name="%s Search Results for " references="../search.php:6">
+        <value>&lt;![CDATA[%s Résultats de recherche pour %s Résultats de recherche pour ]]&gt;</value>
+    </data>
+    <data name="To search, type and hit enter." content_context="Content" content_context_url="http://local.apidocs.strakertranslations.com/#" post_id="post_id" post_type="post_type" post_name="To search, type and hit enter." references="../searchform.php:3">
+        <value>&lt;![CDATA[RechercherRechercher]]&gt;</value>
+    </data>
+    <data name="Search" content_context="Content" content_context_url="http://local.apidocs.strakertranslations.com/#" post_id="post_id" post_type="post_type" post_name="Search" references="../searchform.php:4">
+        <value>&lt;![CDATA[RechercherRechercher]]&gt;</value>
+    </data>
+    <data name="Tags: " content_context="Content" content_context_url="http://local.apidocs.strakertranslations.com/#" post_id="post_id" post_type="post_type" post_name="Tags: " references="../single.php:33">
+        <value>&lt;![CDATA[Tags : Tags : ]]&gt;</value>
+    </data>
+    <data name="Categorised in: " content_context="Content" content_context_url="http://local.apidocs.strakertranslations.com/#" post_id="post_id" post_type="post_type" post_name="Categorised in: " references="../single.php:35">
+        <value>&lt;![CDATA[Classés dans :Classés dans :]]&gt;</value>
+    </data>
+    <data name="This post was written by " content_context="Content" content_context_url="http://local.apidocs.strakertranslations.com/#" post_id="post_id" post_type="post_type" post_name="This post was written by " references="../single.php:37">
+        <value>&lt;![CDATA[Cet article a été écrit par Cet article a été écrit par ]]&gt;</value>
+    </data>
+    <data name="Tag Archive: " content_context="Content" content_context_url="http://local.apidocs.strakertranslations.com/#" post_id="post_id" post_type="post_type" post_name="Tag Archive: " references="../tag.php:6">
+        <value>&lt;![CDATA[Archives de tags : Archives de tags : ]]&gt;</value>
+    </data>
+    <data name="%s results for " content_context="Content" content_context_url="http://local.apidocs.strakertranslations.com/#" post_id="post_id" post_type="post_type" post_name="%s results for " references="">
+        <value>&lt;![CDATA[%s résultats pour %s résultats pour ]]&gt;</value>
+    </data>
+</root>
